@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:gravity="center"
     android:orientation="vertical"
-    tools:context=".viewmodels.ViewModelActivity">
+    tools:context=".viewmodels.normal.ViewModelActivity">
 
     <TextView
         android:id="@+id/id_tv"

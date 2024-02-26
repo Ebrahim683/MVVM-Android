@@ -1,4 +1,4 @@
-package com.example.mvvmandroid.viewmodels
+package com.example.mvvmandroid.viewmodels.normal
 
 import android.annotation.SuppressLint
 import android.os.Bundle
